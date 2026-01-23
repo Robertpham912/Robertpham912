@@ -1,6 +1,6 @@
 # 👋 Chào mừng đến với Văn phòng của Admin Gia Phúc!
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/releaseRobertpham912/html-?color=green&label=PHIÊN%20BẢN%20HACK&style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Robertpham912/html-?color=green&label=PHIÊN%20BẢN%20HACK&style=for-the-badge)
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Admin+Gia+Phuc+đang+ở+đây!;Chuyên+gia+Hack+iOS+Liquid+Glass;DevOps+Engineer+với+tích+xanh+Verified" alt="Typing SVG" />
 </p>
