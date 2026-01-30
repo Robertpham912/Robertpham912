@@ -1,7 +1,7 @@
 # <p align="center">🚀 PHÒNG ĐIỀU KHIỂN CHIẾN LƯỢC - ROBERT PHAM 🛰️</p>
 
 <p align="center">
-  <img src=https://raw.githubusercontent.com/kyechan92/capsule-render/master/api?type=waving&color=auto&height=200&section=header&text=BEANSTOCK%20PROJECT&fontSize=90 />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=32CD32&height=200&section=header&text=BEANSTOCK%20PROJECT&fontSize=90&animation=fadeIn" alt="Banner" />
 </p>
 
 ## 📜 Nhật ký Kỹ sư
@@ -27,12 +27,13 @@
 
 ## 📊 Chỉ Số Sức Mạnh (Real-time Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robertpham912&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Robert's Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertpham912&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robertpham912&show_icons=true&theme=neon&border_radius=10" alt="Robert's Stats" height="190px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertpham912&layout=compact&theme=neon&border_radius=10" alt="Top Languages" height="190px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robertpham912&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robertpham912&theme=neon&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
