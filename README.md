@@ -1,7 +1,7 @@
 # <p align="center">🚀 PHÒNG ĐIỀU KHIỂN CHIẾN LƯỢC - ROBERT PHAM 🛰️</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=250&section=header&text=BEANSTOCK%20SYSTEM&fontSize=80&animation=fadeIn&fontAlignY=45" />
+  <img src=https://raw.githubusercontent.com/kyechan92/capsule-render/master/api?type=waving&color=auto&height=200&section=header&text=BEANSTOCK%20PROJECT&fontSize=90 />
 </p>
 
 ## 📜 Nhật ký Kỹ sư
