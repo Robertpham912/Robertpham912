@@ -1,7 +1,7 @@
 # <p align="center">🚀 PHÒNG ĐIỀU KHIỂN CHIẾN LƯỢC - ROBERT PHAM 🛰️</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-BEANSTOCK-32CD32?style=for-the-badge&logo=github&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PROJECT-FIOLO-32CD32?style=for-the-badge&logo=github&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-blue?style=for-the-badge&logo=statuspage&logoColor=white" height="40"/>
 </p>
 
