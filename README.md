@@ -6,7 +6,7 @@
 </p>
 
 ## 📜 Nhật ký Kỹ sư
-- 🛰️ **Dự án trọng điểm:** [Beanstock-Project](https://github.com/Robertpham912/beanstock-project)
+- 🛰️ **Dự án trọng điểm:** [FIOLO](https://github.com/Robertpham912/Fiolo-Private-Ver)
 - 🎯 **Trạng thái:** Đang nâng cấp hệ thống Robot và tối ưu hóa mã nguồn.
 - 🧬 **Triết lý:** "Code không chỉ là dòng lệnh, nó là di sản nghìn năm."
 
